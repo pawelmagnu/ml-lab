@@ -1,1 +1,8 @@
-Clasterization of MNIST data
+# lab7
+
+Using clasterization to cluster MNIST data
+
+## Used:
+
+DBSCAN
+
