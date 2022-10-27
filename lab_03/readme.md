@@ -1,3 +1,3 @@
-# lab 3
+# Regression
 
-Linear and Multinomial Regression, KNN Regression
+Using Linear, Multinomial and KNN Regression on self-generated data with noise

@@ -1,3 +1,3 @@
-# lab2
+# SGD
 
-Classification of images using SGD on the MNIST dataset
+Classification of images using SGD Classifier on the MNIST dataset

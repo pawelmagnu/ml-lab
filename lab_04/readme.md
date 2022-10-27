@@ -1,5 +1,3 @@
-# lab 4
+# SVM
 
-SVM
-
-Comparison of LinearSVC with and without scaling of breast cancer and iris datasets
+Comparison of LinearSVC with and without scaling for classification of breast cancer and iris datasets

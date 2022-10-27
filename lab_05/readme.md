@@ -1,5 +1,5 @@
-# lab 5
+# Decision Tree
 
-Using DecisionTreeClassifier to classify breast cancer patients
+Using DecisionTreeClassifier for classification of  breast cancer dataset
 
-Using DecisionTreeRegressor to predict values of some polynomial function
+Using DecisionTreeRegressor to predict values of self-generated data

@@ -1,12 +1,12 @@
-# lab6
+# Ensemble methods
 
-Using ensemble metods to classify breast cancer.
+Using various ensemble methods to classify breast cancer data
 
-## Used:
+### Used:
 
-VotingClassifier ->  LogisticRegression + DecisionTreeClassifier + KNeighborsClassifier
+VotingClassifier with LogisticRegression + DecisionTreeClassifier + KNeighborsClassifier
 
-BaggingClassifier
+BaggingClassifier with and without bootstrapping
 
 RandomForestClassifier
 

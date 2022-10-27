@@ -1,3 +1,5 @@
-# lab9
+# Perceptron and Simple Neural Network
 
-Neural Network representation of XOR logic gate in Tensorflow 
+Using Perceptron and NN to represent XOR gate.
+
+Made using Tensorflow and keras. 
