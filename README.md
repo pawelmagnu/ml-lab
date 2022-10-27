@@ -1,7 +1,12 @@
 # ML-lab
+Various ML models implemented in scikit-learn and Tensorflow:
+- SGD
+- LinearRegressor
+- PolynomialRegressor
+- SVM
+- DecisionTree
+- RandomForest
+- MLP
+- CNN
 
-Different ML models implemented mainly in sklearn.
-
-Made during the course of my Machine Learning module.
-
-4th semester of CS undergrad at AGH UST.
+Made during ML course on 4th semester of CS and Intelligent Systems undergrad on AGH UST.
